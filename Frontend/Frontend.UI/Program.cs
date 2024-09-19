@@ -1,9 +1,11 @@
+using Frontend.UI.Clients;
 using Frontend.UI.Components;
 
 var builder = WebApplication.CreateBuilder(args); 
 
 // Add services to the container.
 builder.Services.AddRazorComponents();
+builder.Services.AddSingleton<GamesClients>();
 
 var app = builder.Build();
 

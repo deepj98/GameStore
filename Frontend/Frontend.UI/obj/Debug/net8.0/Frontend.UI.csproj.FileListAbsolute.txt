@@ -26,3 +26,4 @@
 /Users/deepshah/Deep_documents/GameStore/Frontend/Frontend.UI/obj/Debug/net8.0/Frontend.UI.pdb
 /Users/deepshah/Deep_documents/GameStore/Frontend/Frontend.UI/obj/Debug/net8.0/Frontend.UI.genruntimeconfig.cache
 /Users/deepshah/Deep_documents/GameStore/Frontend/Frontend.UI/obj/Debug/net8.0/ref/Frontend.UI.dll
+/Users/deepshah/Deep_documents/GameStore/Frontend/Frontend.UI/obj/Debug/net8.0/Frontend.UI.sourcelink.json
